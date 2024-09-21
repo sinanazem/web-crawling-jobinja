@@ -18,7 +18,7 @@ This project is a web scraper designed to extract information from the [Jobinja]
 ## Project Structure
 
 ```
-scraper/
+web-crawling-jobinja/
 ├── logs/
 │   └── scraper.log
 ├── config/
@@ -53,7 +53,7 @@ scraper/
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/jobinja-web-scraper.git
+   git clone https://github.com/sinanazem/web-crawling-jobinja.git
    cd jobinja-web-scraper
    ```
 
@@ -73,7 +73,8 @@ To run the scraper locally without Docker:
 
 2. Execute the main script:
    ```sh
-   python3 main.py
+   export PYTHONPATH=${PWD}
+   python3 src/main.py
    ```
 
 ## Docker
