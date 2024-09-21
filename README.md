@@ -1,6 +1,4 @@
-# web-crawling-jobinja
-
-<img src="https://iranhrmedia.com/wp-content/uploads/2023/01/jobinja.png">
+<img src="https://iranhrmedia.com/wp-content/uploads/2023/01/jobinja.png" width=450>
 
 # Jobinja Web Scraper
 
