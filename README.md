@@ -1,5 +1,5 @@
 # Jobinja Web Scraper
-<img src="https://iranhrmedia.com/wp-content/uploads/2023/01/jobinja.png" width=350>
+<img src="https://jobinja.ir/assets/img/logo-neg-500.png?uid=ccdd1fac7e0ee58bbeed5431a0653232" width=350>
 This project is a web scraper designed to extract information from the [Jobinja](https://jobinja.ir) website, a popular job listing website similar to Glassdoor and Indeed. The scraper extracts links and detailed page information (such as main, job, and about pages) and stores the data in a MongoDB database. The project is Dockerized to ensure a consistent environment and ease of deployment.
 
 ## Table of Contents
